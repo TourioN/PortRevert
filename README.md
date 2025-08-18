@@ -16,7 +16,7 @@ SMB port redirector for NTLM relay attacks without stopping the LanmanServer ser
 
 ## 📋 Требования
 
-- Windows 7/8/10/11
+- Windows 8/10/11
 - Права администратора
 - Visual Studio (для сборки)
 - WinDivert 2.2+
